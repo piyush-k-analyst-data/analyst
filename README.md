@@ -2,6 +2,23 @@
 Hi there! I'm Piyush, a motivated BCA student passionate about data analysis and visualization. I have a solid foundation in data analysis skills, including proficiency in SQL, database management, and a budding expertise in tools like Power BI and Tableau. I am currently sharpening my skills and exploring advanced techniques in data science and programming, aiming to make data-driven decisions impactful and insightful.
 
 
+🌱 What I'm working on:
+Expanding my knowledge in Python, R, and SQL for data analysis.
+Mastering visualization tools like Power BI and Tableau to tell compelling data stories.
+Developing strong problem-solving skills through algorithm design and optimization.
+
+
+🚀 Career Aspiration:
+I aim to bridge the gap between raw data and actionable insights. I’m seeking internship opportunities where I can apply my knowledge to real-world challenges, enhance my technical expertise, and contribute to exciting projects.
+
+
+🎯 Interests:
+Data Science | Data Analytics | Business Intelligence
+Turning raw data into actionable strategies for businesses
+Collaborating on meaningful projects that make a difference
+Feel free to connect with me and check out my repositories for a closer look at my journey in data analysis and beyond. 🌟
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-kumeriya-7a05a6253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2CbDswgfN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushkumeriya771@gmail.com) 
 
